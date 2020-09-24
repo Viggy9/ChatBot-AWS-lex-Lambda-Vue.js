@@ -1,0 +1,25 @@
+{
+  "name": "preconsultation-bot",
+  "version": "1.0.0",
+  "description": "Pre consultation questions to make doctor appointment more efficient",
+  "author": "Viggy and JB ",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.10.2",
+    "@nuxtjs/axios": "^5.9.0",
+    "@nuxtjs/pwa": "^3.0.0-0",
+    "@nuxtjs/dotenv": "^1.4.1"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.9.1",
+    "eslint-config-prettier": "^4.1.0",
+    "eslint-plugin-prettier": "^3.0.1",
+    "prettier": "^1.16.4"
+  }
+}
